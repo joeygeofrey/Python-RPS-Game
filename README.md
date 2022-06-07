@@ -8,4 +8,4 @@ These computer player strategiescan be selected at the beginning of the game.
 
 ## Running the RPS Game
 
-To play this game, please execute `python3 adventure_game.py` in the terminal. 
+To play this game, please execute `python3 adventure_game.py` in the terminal.
